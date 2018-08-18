@@ -1,6 +1,6 @@
 Here are some key point we need to check before running this code.
 
-1) Before running this code we need to make sure that the file is extracted and all the data is present in the same folder called "Data", all the files are in text(.txt) format.
+1) Before running this code we need to make sure that the file is extracted and all the data is present in the same folder called "Dataset", all the files are in text(.txt) format.
 
 2) All the information regarding the variables is gven in CodeBook.
 
